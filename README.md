@@ -4,7 +4,9 @@
 
 -Entusiasta em resolver problemas lógicos 
 
--Programação com foco em Back end, desenvolvedor de sistemas e game Dev
+-Programação com foco em Back end, desenvolvedor de sistemas 
+
+-Game Dev
 #
 ![Texto Alternativo](https://img.icons8.com/?size=50&id=20909&format=png&color=000000)
 ![Texto Alternativo](https://img.icons8.com/?size=50&id=3BTBsJs5myRy&format=png&color=000000)
@@ -18,3 +20,4 @@
 ![Texto Alternativo](https://img.icons8.com/?size=50&id=39848&format=png&color=000000)
 
 #
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcampagnolli&layout=compact&theme=dracula)
