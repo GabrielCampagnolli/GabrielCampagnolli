@@ -1,12 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+My+name+is+Gabriel!!&color=4E1764)](https://git.io/typing-svg)
 
--Estudante do Instituto Federal campus Capivari
+-Formado em Técnico em Informática pelo Instituto Federal de Ciência e Tecnologia Campus Capivari-SP
 
--Entusiasta em resolver problemas lógicos 
+-Estudante de Engenharia Mecânica na Universidade Estadual Paulista Júlio Mesquita Filho(UNESP) de Bauru-SP
+
+-Entusiasta em resolver problemas lógicos e automação
 
 -Programação com foco em Back end, desenvolvedor de sistemas 
 
--Game Dev
 #
 ![Texto Alternativo](https://img.icons8.com/?size=50&id=20909&format=png&color=000000)
 ![Texto Alternativo](https://img.icons8.com/?size=50&id=3BTBsJs5myRy&format=png&color=000000)
